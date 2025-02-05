@@ -1,3 +1,5 @@
+## TRY the app : https://weatherapp-gabdev.netlify.app/ 
+
 # Weather App
 
 A weather application built with React and TypeScript that allows users to check current weather conditions and forecasts for any city. The app features a clean, responsive design with dark mode support.
@@ -33,8 +35,6 @@ A weather application built with React and TypeScript that allows users to check
 - Node.js 
 - npm 
 - OpenWeatherMap API key
-
-## PREVIEW : https://weatherapp-gabdev.netlify.app/ 
 
 ## Gabriele Beretti | © 2024 ##
 
