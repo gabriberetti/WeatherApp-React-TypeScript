@@ -34,6 +34,8 @@ A modern weather application built with React and TypeScript that allows users t
 - npm 
 - OpenWeatherMap API key
 
+## PREVIEW : https://weatherapp-gabdev.netlify.app/ 
+
 ## Gabriele Beretti | © 2024 ##
 
 
